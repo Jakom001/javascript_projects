@@ -1,0 +1,20 @@
+.change{
+    color: rebeccapurple;
+    font-size: 30px;
+    border: 2px solid green;
+}
+
+.box1{
+    height: 100vh;
+    background-color: lightblue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.box2{
+    height: 100vh;
+    background-color: rgb(184, 155, 59);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
